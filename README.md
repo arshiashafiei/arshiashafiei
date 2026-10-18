@@ -8,6 +8,9 @@ I'm interested in pursuing graduate research on developing reliable software and
 
 In a more non-formal way, I'm a guy who's daily driving linux (regretting it cause my mic doesn't work) with ambitious projects and goals in mind, though I'm still figuring out what some of them are.
 
+I enjoy making things that automate repetitive tasks for me or others, allowing us to focus on some other tasks, or just take a break. I also like making useful things, and it can even be something in the physical realm! I love using the terminal, but weirdly enough, I also enjoy designing in Figma. There's something satisfying about switching from an all-keyboard workflow to a (mostly) mouse-driven one.
+
+Beyond building things, I care about helping people recognize harmful assumptions, question abuses of power, and consider how their choices affect others. I want to encourage people, including myself, to rethink beliefs we take for granted and consider who they might hurt. Through my work and future content creation, I hope to support people affected by abuses of power and make room for thoughtful conversations, empathy, and reflection.
 
 <sub>Computer Engineering B.Sc. Graduated from the University of Isfahan · DevOps Engineer at [mpjlink.ir](https://mpjlink.ir)</sub>
 
