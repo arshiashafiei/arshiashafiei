@@ -16,7 +16,7 @@ Beyond building things, I care about helping people recognize harmful assumption
 
 <sub>Computer Engineering B.Sc. Graduated from the University of Isfahan · DevOps Engineer at [mpjlink.ir](https://mpjlink.ir)</sub>
 
-### Research Interests
+### Some of my Research Interests
 
 - Software Engineering
 - AI for Software Engineering
